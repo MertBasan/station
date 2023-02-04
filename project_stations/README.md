@@ -19,6 +19,5 @@ Functionalities:
         This code is about the implementation of multiprocessing with some extra functinalities.
     
 
-Additional note:
-    Since the project is not completed yet, I have not sticked with the template of a proper read.me.  
+
     
